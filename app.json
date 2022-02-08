@@ -1,12 +1,12 @@
 {
-  "name": "SmokerMusicX",
+  "name": "KannadigaMusic",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/EsportMusicX/SmokerMusicX",
+  "repository": "https://github.com/MR-KANNADIGA/MUSIC",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string",
+      "description": "Pyrogram session string get it by @ADMssGenBot",
       "required": true
     },
     "BOT_TOKEN": {
